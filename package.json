@@ -1,0 +1,22 @@
+{
+  "name": "cti-stix2-json-schemas",
+  "version": "1.0.0",
+  "description": "*This is an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/). See the [Governance](#governance) section for more information.*",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oasis-open/cti-stix2-json-schemas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oasis-open/cti-stix2-json-schemas/issues"
+  },
+  "homepage": "https://github.com/oasis-open/cti-stix2-json-schemas#readme"
+}
